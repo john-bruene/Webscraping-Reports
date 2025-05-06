@@ -26,5 +26,3 @@ headers = {'User-Agent': user_agent,
             "Sec-Fetch-User": "?1",
             'Cache-Control': 'no-cache'
 }
-
-# dbx = dropbox.Dropbox('sl.BfETvybupeFZL7XDB3riszW1D7fXDg1Sa4N6W8JYkLEWENJp7rWzSNtnQhAxEWZrU2jUPpKiGP5Z_XRtsV0fbxGHIsGJ68TVu-EA7qNs9J0CTHgq1e7q-gxkaMDHrz_FGTOdwZPZ-Pc:EUR')
