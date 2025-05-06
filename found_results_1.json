@@ -1,0 +1,24 @@
+{
+    "2023": [
+        {
+            "company": "Allianz",
+            "query": "\"Allianz\" (sustainability OR ESG OR responsibility OR CSR) report 2023 filetype:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2023-web.pdf"
+        },
+        {
+            "company": "BASF",
+            "query": "\"BASF\" (sustainability OR ESG OR responsibility OR CSR) report 2023 filetype:pdf",
+            "link": "https://www.basf.com/dam/jcr:3c4b8931-7f18-3418-b352-3a4e76ca072e/basf/www/global/documents/en/investor-relations/calendar-and-publications/reports/2024/BASF_At_a_Glance_2023.pdf"
+        },
+        {
+            "company": "Bayer",
+            "query": "\"Bayer\" (sustainability OR ESG OR responsibility OR CSR) report 2023 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/2024-03/bayer-sustainability-report-2023.pdf"
+        },
+        {
+            "company": "Beiersdorf",
+            "query": "\"Beiersdorf\" (sustainability OR ESG OR responsibility OR CSR) report 2023 filetype:pdf",
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/investors/financial-publication/2024/annual-report-2023/Beiersdorf-annual-report-2023-en.pdf"
+        }
+    ]
+}

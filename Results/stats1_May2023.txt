@@ -1,0 +1,42 @@
+2017 : 45.65720903300521% were found
+1877 doubtful results until now
+6979 found results until now
+8856 results to find
+5.12449334105385% couldn't be downloaded
+177 exceptions until now
+
+2018 : 48.23393167342212% were found
+3665 doubtful results until now
+7851 found results until now
+11516 results to find
+4.863925883034163% couldn't be downloaded
+345 exceptions until now
+
+2019 : 56.35311143270622% were found
+5173 doubtful results until now
+8834 found results until now
+14007 results to find
+4.92040520984081% couldn't be downloaded
+515 exceptions until now
+
+2020 : 64.7178002894356% were found
+6392 doubtful results until now
+9940 found results until now
+16332 results to find
+5.354558610709117% couldn't be downloaded
+700 exceptions until now
+
+2021 : 72.82199710564399% were found
+7331 doubtful results until now
+11128 found results until now
+18459 results to find
+4.949348769898697% couldn't be downloaded
+871 exceptions until now
+
+2022 : 71.34587554269176% were found
+8321 doubtful results until now
+12407 found results until now
+20728 results to find
+5.412445730824891% couldn't be downloaded
+1058 exceptions until now
+
